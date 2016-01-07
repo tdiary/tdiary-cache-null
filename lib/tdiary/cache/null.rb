@@ -13,6 +13,16 @@ module TDiary
 		def clear_cache(target = :all)
 			true
 		end
+
+		private
+
+		def restore_parser_cache(data, key=nil)
+			nil
+		end
+
+		def store_parser_cache(data, key=nil)
+			nil
+		end
 	end
 end
 
