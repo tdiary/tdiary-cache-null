@@ -16,11 +16,11 @@ module TDiary
 
 		private
 
-		def restore_parser_cache(data, key=nil)
+		def restore_parser_cache(date, key=nil)
 			nil
 		end
 
-		def store_parser_cache(data, key=nil)
+		def store_parser_cache(date, obj, key=nil)
 			nil
 		end
 	end
