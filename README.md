@@ -1,5 +1,7 @@
 # TDiary::Cache::Null
 
+[![Gem Version](https://badge.fury.io/rb/tdiary-cache-null.png)](https://rubygems.org/gems/tdiary-cache-null) [![Build Status](https://secure.travis-ci.org/tdiary/tdiary-cache-null.png)](https://travis-ci.org/tdiary/tdiary-cache-null)
+
 Null adapter for tDiary cache.
 
 This gem is useful for the case when:
