@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{tDiary null cache adapter}
   spec.description   = %q{tDiary null cache adapter}
-  spec.homepage      = "https://github.com/minimum2scp/tdiary-cache-null"
+  spec.homepage      = "https://github.com/tdiary/tdiary-cache-null"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
